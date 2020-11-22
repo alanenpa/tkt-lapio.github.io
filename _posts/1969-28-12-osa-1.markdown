@@ -240,7 +240,7 @@ Alla näkyy, miten voit notepad++ -editorissa luoda tiedoston, jossa rivinvaihdo
 <img alt="Rivinvaihto-merkin vaihtaminen notepad++ -editorilla" src="/assets/notepad++_lf.png" />
 <br/>
 
-Huomaa, että notepadillä luomasi tiedosto on luotu Windwos-käyttäjällä, ja bash-komentorivillä käytät Unix-käyttäjää. Löydät Windows-käyttäjän tiedostot komentorivillä esimerkiksi kansiosta <code>/mnt/c</code>, jos tallensit tiedoston C-asemalle.
+Huomaa, että notepadillä luomasi tiedosto on luotu Windows-käyttäjällä, ja bash-komentorivillä käytät Unix-käyttäjää. Löydät Windows-käyttäjän tiedostot komentorivillä esimerkiksi kansiosta <code>/mnt/c</code>, jos tallensit tiedoston C-asemalle.
 </div>
 
 <div class="exercise">
